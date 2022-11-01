@@ -1,0 +1,19 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://media.istockphoto.com/photos/halloween-background-with-jack-olantern-and-pumpkins-picture-id1183244512?k=20&m=1183244512&s=170667a&w=0&h=vqXIRXbS_a3M1Pev0mr1my4fNkVWTFujbIXe195-4WU=);
+    background-size: cover;
+    
+}
+h1{
+    color:white;
+    position:fixed;
+    top:45%;
+}
+button{
+    position:fixed;
+    top:55%;
+}
